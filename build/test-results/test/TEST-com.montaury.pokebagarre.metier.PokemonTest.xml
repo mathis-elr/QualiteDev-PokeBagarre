@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.montaury.pokebagarre.metier.PokemonTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-03-12T10:50:47" hostname="PCVIUT473" time="0.313">
+  <properties/>
+  <testcase name="premier_pokemon_devrait_gagner_gagner_avec_meilleure_attaque()" classname="com.montaury.pokebagarre.metier.PokemonTest" time="0.293"/>
+  <testcase name="deuxieme_pokemon_devrait_gagner_gagner_avec_meilleure_defense()" classname="com.montaury.pokebagarre.metier.PokemonTest" time="0.002"/>
+  <testcase name="egalite_defense_et_attaque_entre_premier_et_deuxieme_pokemon()" classname="com.montaury.pokebagarre.metier.PokemonTest" time="0.002"/>
+  <testcase name="premier_pokemon_devrait_gagner_gagner_avec_meilleure_defense()" classname="com.montaury.pokebagarre.metier.PokemonTest" time="0.001"/>
+  <testcase name="deuxieme_pokemon_devrait_gagner_gagner_avec_meilleure_attaque()" classname="com.montaury.pokebagarre.metier.PokemonTest" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
